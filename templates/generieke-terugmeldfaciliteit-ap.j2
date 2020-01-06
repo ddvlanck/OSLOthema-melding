@@ -1,4 +1,4 @@
-{% extends "ap2.j2" %}
+{% extends "ap.j2" %}
 
 {% block summary %}
 <p>
@@ -44,3 +44,6 @@ Dergelijke bijkomende beperkingen kunnen de volgende elementen bevatten:</p>
 </p>  
 {% endblock %}
 
+{% block jsonld %}
+<p>Een herbruikbare JSON-LD context definitie voor dit applicatieprofiel is terug te vinden op: <a href="../../../context/generieke-terugmeldfaciliteit.jsonld" target="_blank">http//data.vlaanderen.be/context/generieke-terugmeldfaciliteit.jsonld</a></p>
+{% endblock %}
