@@ -2,9 +2,9 @@
   {
     "name": "issuetracking",
     "type": "ap",
-    "eap": " OSLO-Issue-Tracking-voor-Burgers-en-Organisaties-AP.eap",
+    "eap": "OSLO-Issue-Tracking-voor-Burgers-en-Organisaties-AP.eap",
     "diagram": "OSLO-Issue-Tracking-Voor-Burgers-En-Organisaties",
-    "template": "notificatiecomponent-ap.j2",
+    "template": "issue-tracking-voor-burgers-en-organisaties-ap.j2",
     "title": "Issue tracking voor burgers en organisaties",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/Standaard",
     "publication-date": "2019-02-07",
