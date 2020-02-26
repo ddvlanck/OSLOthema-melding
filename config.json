@@ -1,0 +1,17 @@
+{
+  "naam": "Vocabularium Melding",
+  "verantwoordelijke_organisatie": "Agentschap Informatie Vlaanderen",
+  "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO002949",
+  "publicatiedatum": "2019-02-07",
+  "type_toepassing": "Aanbevolen (vrijwillig)",
+  "categorie": "Vocabularium & applicatieprofielen",
+  "specificatiedocument": [],
+  "documentatie": [],
+  "verslagen_en_charter": [],
+  "presentaties": [],
+  "functioneel_toepassingsgebied": "Semantische standaard voor informatie met betrekking tot meldingen naar de overheid",
+  "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
+  "datum_van_aanmelding": "08 Maart 2018",
+  "erkenning_werkgroep_datastandaarden": "8 november 2018",
+  "erkenning_stuurgroep": "07 februari 2019"
+}
