@@ -1,5 +1,5 @@
 {
-  "naam": "Vocabularium Melding",
+  "naam": "Applicatieprofiel Issue Tracking voor burgers en Organisaties",
   "verantwoordelijke_organisatie": "Agentschap Informatie Vlaanderen",
   "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO002949",
   "publicatiedatum": "2019-02-07",
@@ -7,8 +7,8 @@
   "categorie": "Vocabularium & applicatieprofielen",
   "specificatiedocument": [
     {
-      "naam": "Digitale Melding",
-      "waarde": "https://data.vlaanderen.be/ns/melding"
+      "naam": "Applicatieprofiel Issue tracking voor burgers en organisaties",
+      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/issue-tracking-voor-burgers-en-organisaties/"
     }
   ],
   "documentatie": [],
